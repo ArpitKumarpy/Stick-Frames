@@ -13,7 +13,7 @@
 
 **STEPS TO FOLLOW**
 ~Install UnityHub.<br>
-~Download the Unity project file from above in the project file.<br>
+~Download the Unity project file from **MotionCaptureUnity**.<br>
 ~Install the requires version of Unity according to the project<br>
 ~open the project<br>
 ~Run GUI.py<br>
