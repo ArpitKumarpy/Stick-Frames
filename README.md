@@ -18,5 +18,6 @@
 ~open the project<br>
 ~Run GUI.py<br>
 ~Select the type of input<br>
+~Press 's' to stop tracking<br>
 ~go to unity project and run the project to see the motion captured.<br> 
 
