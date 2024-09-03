@@ -21,3 +21,6 @@
 ~Press 's' to stop tracking<br>
 ~go to unity project and run the project to see the motion captured.<br> 
 
+**DEMO VIDEO**
+https://www.youtube.com/watch?v=JUxj29SYFEU
+
